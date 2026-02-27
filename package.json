@@ -1,0 +1,24 @@
+{
+  "name": "@ajayk/mshr",
+  "version": "1.0.0",
+  "description": "Parse and format human-readable durations — supports compound strings like '1h 30m 10s'",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ms",
+    "milliseconds",
+    "duration",
+    "parse",
+    "format",
+    "time",
+    "human-readable",
+    "compound"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajayk/mshr.git"
+  }
+}
