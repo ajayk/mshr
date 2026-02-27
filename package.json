@@ -1,6 +1,6 @@
 {
   "name": "@ajaykemparaj/mshr",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Parse and format human-readable durations — supports compound strings like '1h 30m 10s'",
   "main": "index.js",
   "scripts": {
