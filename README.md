@@ -7,13 +7,13 @@ Zero dependencies. ~100 lines.
 ## Install
 
 ```
-npm install @anthropic-ajay/mshr
+npm install @ajaykemparaj/mshr
 ```
 
 ## Usage
 
 ```js
-const ms = require('@anthropic-ajay/mshr');
+const ms = require('@ajaykemparaj/mshr');
 
 // String → milliseconds
 ms('2h')              // 7200000
