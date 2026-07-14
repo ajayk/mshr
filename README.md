@@ -2,7 +2,7 @@
 
 Parse and format human-readable durations. Unlike the popular `ms` package, **mshr supports compound durations** like `"1h 30m 10s"`.
 
-Zero dependencies. ~100 lines.
+Zero dependencies. ~101 lines.
 
 ## Install
 
